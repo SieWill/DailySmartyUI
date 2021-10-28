@@ -26,7 +26,15 @@ body {
   justify-items: center;
 }
 
+ul {
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+}
+
 $grey-one: #6666;
 $grey-two: #b3b3b3;
+$blue-one: #0079ff;
 
 @import "./searchBar.scss";
+@import "./recentPosts.scss";
