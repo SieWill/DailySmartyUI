@@ -35,6 +35,10 @@ $blue-one: #0079ff;
   line-height: 17px;
 }
 
+.post-topic {
+  color: $grey-two;
+}
+
 @import "./mixins.scss";
 @import "./searchBar.scss";
 @import "./recentPosts.scss";
