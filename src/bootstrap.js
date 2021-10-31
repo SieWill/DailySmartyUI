@@ -19,7 +19,7 @@ const createStoreWithMiddleware = applyMiddleware(thunk)(
 //import "bootstrap/dist/css/bootstrap.css";
 import "./style/main.scss";
 
-import Home from "./components/home";
+import Home from "./components/Home";
 import Results from "./components/results";
 
 function main() {
